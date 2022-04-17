@@ -1,19 +1,18 @@
----
+<!-- ---
 layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+title: Enzo Poggio's CV
+--- -->
+# Enzo POGGIO
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Phone: 438 506 9218
+ | Mail: poggio.enzo@gmail.com
+
+<div id="webaddress">Adress: 2035 rue des carrières Montréal H2G 1W9 | <a href="https://github.com/EPgg92">github.com/EPgg92</a></div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+AI Team Manager at Heyday
 
 ### Specialized in
 
@@ -58,7 +57,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +86,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
