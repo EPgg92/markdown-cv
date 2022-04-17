@@ -1,6 +1,6 @@
 <!-- ---
 layout: cv
-title: Enzo Poggio's CV
+title: Enzo Poggio
 --- -->
 # Enzo POGGIO
 
