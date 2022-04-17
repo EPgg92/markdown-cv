@@ -4,8 +4,8 @@ title: Enzo Poggio
 --- -->
 # Enzo POGGIO
 
-Phone: 438 506 9218
- | Mail: poggio.enzo@gmail.com
+<!-- Phone: 438 506 9218
+ | Mail: poggio.enzo@gmail.com -->
 
 <div id="webaddress">Adress: 2035 rue des carrières Montréal H2G 1W9 | <a href="https://github.com/EPgg92">github.com/EPgg92</a></div>
 
